@@ -1,0 +1,11 @@
+[package]
+name = "cerberos"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+sargparse = "0.2.2"                                 # ARGPARSE
+ssh-rs = "0.3.1"                                    # SSH                  
+regex = "1.7.0"                                     # Regular Expression
